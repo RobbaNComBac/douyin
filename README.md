@@ -1,8 +1,6 @@
 dou+ 审核不通过的原因
 
 
- ![image](https://github.com/RobbaNComBac/douyin/blob/master/1592365696542.png)
-
 
 低质量视频
 
